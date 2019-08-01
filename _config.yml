@@ -79,5 +79,5 @@ theme: Yelee
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hezhico/hexo-blog.git
+  repo: https://github.com/hezhico/hezhico.github.io.git
   branch: master
